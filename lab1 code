@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Расстояние между строками по вертикали, HTML перенос строки</title>
+</head>
+<body>
+ <title>description</title>
+  <meta charset="utf-8">
+<p>Сушко Андрей Олегович<br>
+5134-2<br>
+Технології та протоколи Інтернет<br></p><!-- zzz <!--]-->
